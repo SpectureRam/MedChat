@@ -98,7 +98,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Image Placeholder
 
-![MedChat Image](path/to/your/image.png)
+![MedChat Application Screenshot](https://github.com/user-attachments/assets/2770b1e7-ba5d-42b5-968f-f655414adafe)
+
 
 ---
 
