@@ -5,6 +5,11 @@ MedChat is a Python-based chatbot designed to assist users with queries related 
 
 ---
 
+## Application Image
+
+![MedChat Application Screenshot](https://github.com/user-attachments/assets/2770b1e7-ba5d-42b5-968f-f655414adafe)
+
+---
 ## Features
 
 - **Accurate Medicine Information**: Responds with detailed information about medicines based on user queries.
@@ -93,13 +98,6 @@ MedChat provides only general information about medicines. It is not a substitut
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Application Image
-
-![MedChat Application Screenshot](https://github.com/user-attachments/assets/2770b1e7-ba5d-42b5-968f-f655414adafe)
-
 
 ---
 
